@@ -1,0 +1,11 @@
+.green{
+    color:green
+}
+
+.input-group-text{
+    border-radius: 15px 0px 0px 15px !important;
+}
+
+.input-group input, textarea, select{
+    border-radius: 0px 15px 15px 0px !important;
+}
